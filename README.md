@@ -1,3 +1,5 @@
+# Semana de aulas práticas "Next Level Week" promovida pela Rocketseat
+App letmeask desenvolvido tem como objetivo ajudar os instrutores de uma classe a responder as perguntas mais importantes para a comunidade com um sistema de curtidas e login pelo Google.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
